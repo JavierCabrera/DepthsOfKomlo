@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: 9131f05e25f5fe74385a5b77b24b48e9
+timeCreated: 1445690340
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spider_jawL1
+    21300002: spider_head
+    21300004: spider_body
+    21300006: spider_jawL2
+    21300008: "ara\xF1apieces_4"
+    21300010: spider_jawR1
+    21300012: spider_body2
+    21300014: spider_jawR2
+    21300016: spider_legB1
+    21300018: spider_legB2
+    21300020: spider_legB3
+    21300022: spider_legB4
+    21300024: spider_legF1
+    21300026: spider_legF2
+    21300028: spider_legF3
+    21300030: spider_legF4
+    21300032: spider_legB11
+    21300034: spider_legB22
+    21300036: spider_legB33
+    21300038: spider_legB44
+    21300040: spider_legF11
+    21300042: spider_legF22
+    21300044: spider_legF33
+    21300046: spider_legF44
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spider_jawL1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2941
+        width: 282
+        height: 216
+      alignment: 9
+      pivot: {x: .848480642, y: .833638489}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spider_head
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2539
+        width: 626
+        height: 640
+      alignment: 9
+      pivot: {x: .499999911, y: .728780687}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spider_body
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 2034
+        width: 1230
+        height: 1142
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spider_jawL2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2623
+        width: 261
+        height: 290
+      alignment: 9
+      pivot: {x: .22388567, y: .77109462}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "ara\xF1apieces_4"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2600
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spider_jawR1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2296
+        width: 213
+        height: 304
+      alignment: 9
+      pivot: {x: .192420512, y: .823262274}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spider_body2
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1810
+        width: 415
+        height: 714
+      alignment: 9
+      pivot: {x: .159117848, y: .685555398}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spider_jawR2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2069
+        width: 327
+        height: 205
+      alignment: 9
+      pivot: {x: .860629737, y: .787625074}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spider_legB1
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1328
+        width: 532
+        height: 448
+      alignment: 9
+      pivot: {x: .866930366, y: .173177168}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spider_legB2
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 1330
+        width: 530
+        height: 448
+      alignment: 9
+      pivot: {x: .88364327, y: .145132884}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spider_legB3
+      rect:
+        serializedVersion: 2
+        x: 1397
+        y: 1330
+        width: 530
+        height: 448
+      alignment: 9
+      pivot: {x: .890595496, y: .155042917}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spider_legB4
+      rect:
+        serializedVersion: 2
+        x: 1943
+        y: 1332
+        width: 530
+        height: 449
+      alignment: 9
+      pivot: {x: .890595496, y: .142661586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spider_legF1
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 875
+        width: 532
+        height: 449
+      alignment: 9
+      pivot: {x: .0893640742, y: .118654653}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spider_legF2
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 878
+        width: 531
+        height: 447
+      alignment: 9
+      pivot: {x: .11082904, y: .130157128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spider_legF3
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 873
+        width: 530
+        height: 448
+      alignment: 9
+      pivot: {x: .0886721089, y: .132209092}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spider_legF4
+      rect:
+        serializedVersion: 2
+        x: 1938
+        y: 869
+        width: 530
+        height: 449
+      alignment: 9
+      pivot: {x: .088671878, y: .104799539}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spider_legB11
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 18
+        width: 277
+        height: 830
+      alignment: 9
+      pivot: {x: .307821274, y: .961174011}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spider_legB22
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 16
+        width: 276
+        height: 831
+      alignment: 9
+      pivot: {x: .316309601, y: .951467633}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spider_legB33
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 16
+        width: 275
+        height: 831
+      alignment: 9
+      pivot: {x: .343295455, y: .948417187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spider_legB44
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 16
+        width: 275
+        height: 831
+      alignment: 9
+      pivot: {x: .334077358, y: .960619032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spider_legF11
+      rect:
+        serializedVersion: 2
+        x: 1284
+        y: 23
+        width: 275
+        height: 830
+      alignment: 9
+      pivot: {x: .610615671, y: .94590342}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spider_legF22
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 27
+        width: 277
+        height: 830
+      alignment: 9
+      pivot: {x: .618968308, y: .945903361}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spider_legF33
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 19
+        width: 277
+        height: 831
+      alignment: 9
+      pivot: {x: .673876584, y: .948417187}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: spider_legF44
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 15
+        width: 275
+        height: 830
+      alignment: 9
+      pivot: {x: .665923297, y: .955065668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

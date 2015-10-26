@@ -1,0 +1,254 @@
+fileFormatVersion: 2
+guid: 480c167615898b04f92ccaee44fec610
+timeCreated: 1445085178
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: c_rhand_club
+    21300002: c_head
+    21300004: c_larm_01
+    21300006: c_larm02
+    21300008: c_body
+    21300010: c_rarm01
+    21300012: c_hips
+    21300014: c_shield
+    21300016: c_rarm02
+    21300018: c_Lleg01
+    21300020: c_rleg01
+    21300022: c_lleg02
+    21300024: c_rleg02
+    21300026: c_lfoot01
+    21300028: C_rfoot01
+    21300030: Rugancharacter_15
+    21300032: c_lfoot02
+    21300034: c_rfoot02
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: c_rhand_club
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2130
+        width: 568
+        height: 1363
+      alignment: 9
+      pivot: {x: .18476896, y: .384273231}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: c_head
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 2502
+        width: 902
+        height: 994
+      alignment: 9
+      pivot: {x: .429105431, y: .199779972}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: c_larm_01
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 2752
+        width: 398
+        height: 751
+      alignment: 9
+      pivot: {x: .692804515, y: .891685128}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: c_larm02
+      rect:
+        serializedVersion: 2
+        x: 1952
+        y: 2813
+        width: 331
+        height: 656
+      alignment: 9
+      pivot: {x: .728183687, y: .87837106}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: c_body
+      rect:
+        serializedVersion: 2
+        x: 2324
+        y: 2299
+        width: 910
+        height: 1200
+      alignment: 9
+      pivot: {x: .45433712, y: .115039676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: c_rarm01
+      rect:
+        serializedVersion: 2
+        x: 3245
+        y: 2832
+        width: 425
+        height: 674
+      alignment: 9
+      pivot: {x: .199073419, y: .892156839}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: c_hips
+      rect:
+        serializedVersion: 2
+        x: 3691
+        y: 2863
+        width: 965
+        height: 622
+      alignment: 9
+      pivot: {x: .457874745, y: .723582983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: c_shield
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1573
+        width: 876
+        height: 882
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: c_rarm02
+      rect:
+        serializedVersion: 2
+        x: 3369
+        y: 2385
+        width: 266
+        height: 398
+      alignment: 9
+      pivot: {x: .243571579, y: .874898195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: c_Lleg01
+      rect:
+        serializedVersion: 2
+        x: 3699
+        y: 2091
+        width: 468
+        height: 702
+      alignment: 9
+      pivot: {x: .641719997, y: .935827851}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: c_rleg01
+      rect:
+        serializedVersion: 2
+        x: 4282
+        y: 2098
+        width: 405
+        height: 696
+      alignment: 9
+      pivot: {x: .404910535, y: .93343693}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: c_lleg02
+      rect:
+        serializedVersion: 2
+        x: 3701
+        y: 1607
+        width: 441
+        height: 448
+      alignment: 9
+      pivot: {x: .732872486, y: .920262456}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: c_rleg02
+      rect:
+        serializedVersion: 2
+        x: 4265
+        y: 1611
+        width: 443
+        height: 453
+      alignment: 9
+      pivot: {x: .7511397, y: .877839983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: c_lfoot01
+      rect:
+        serializedVersion: 2
+        x: 3750
+        y: 1372
+        width: 370
+        height: 211
+      alignment: 9
+      pivot: {x: .540477216, y: .895455718}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: C_rfoot01
+      rect:
+        serializedVersion: 2
+        x: 4366
+        y: 1377
+        width: 290
+        height: 176
+      alignment: 9
+      pivot: {x: .145873189, y: .70665741}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rugancharacter_15
+      rect:
+        serializedVersion: 2
+        x: 3742
+        y: 1309
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: c_lfoot02
+      rect:
+        serializedVersion: 2
+        x: 3726
+        y: 1008
+        width: 430
+        height: 242
+      alignment: 9
+      pivot: {x: .495024085, y: .880162239}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: c_rfoot02
+      rect:
+        serializedVersion: 2
+        x: 4333
+        y: 963
+        width: 477
+        height: 326
+      alignment: 9
+      pivot: {x: .154626489, y: .9265908}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
